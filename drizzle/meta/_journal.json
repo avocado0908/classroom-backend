@@ -8,6 +8,13 @@
       "when": 1769917795581,
       "tag": "0000_easy_magdalene",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1770012571471,
+      "tag": "0001_thin_night_thrasher",
+      "breakpoints": true
     }
   ]
 }
