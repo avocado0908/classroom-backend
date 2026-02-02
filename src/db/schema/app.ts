@@ -77,6 +77,7 @@ export const classes = pgTable(
     })
 );
 
+
 export const enrollments = pgTable(
     "enrollments",
     {
